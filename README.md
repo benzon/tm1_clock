@@ -2,8 +2,8 @@
 A simple system of counter job time
 
 Requirements :
-  -mysql-async
-  -es_extended
+  - mysql-async
+  - es_extended
 
 Instructions :
   - import init.sql to your database
