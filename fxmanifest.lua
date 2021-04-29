@@ -10,3 +10,7 @@ server_scripts {
     'config.lua',
     'server/main.lua'
 }
+
+pmc_updates 'yes'
+pmc_github 'https://github.com/benzon/tm1_clock'
+pmc_version '2'
