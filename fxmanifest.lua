@@ -13,4 +13,4 @@ server_scripts {
 
 pmc_updates 'yes'
 pmc_github 'https://github.com/benzon/tm1_clock'
-pmc_version '2'
+pmc_version '3'
