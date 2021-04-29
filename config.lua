@@ -2,7 +2,7 @@ Config = {}
 
 Config.Jobs = {
     ['policis'] = { --Name of the clock
-        'police' --Name of the jobs that can go on duty of that clock
+        'polices' --Name of the jobs that can go on duty of that clock
     }
 }
 
