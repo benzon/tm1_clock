@@ -2,12 +2,12 @@
 A simple system of counter job time
 
 Requirements :
--mysql-async
--es_extended
+  -mysql-async
+  -es_extended
 
 Instructions :
-- import init.sql to your database
-- put in the config 'tm1_clock'
+  - import init.sql to your database
+  - put in the config 'tm1_clock'
 
 This system allows you to have an hour meter to count the hours of the players who are on duty.
 
