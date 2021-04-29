@@ -1,11 +1,11 @@
 # tm1_clock
 A simple system of counter job time
 
-Requirements
+Requirements :
 -mysql-async
 -es_extended
 
-Instructions
+Instructions :
 - import init.sql to your database
 - put in the config 'tm1_clock'
 
