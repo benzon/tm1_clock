@@ -1,7 +1,7 @@
 Config = {}
 
 Config.Jobs = {
-    ['policia'] = { --Name of the clock
+    ['policis'] = { --Name of the clock
         'police' --Name of the jobs that can go on duty of that clock
     }
 }
@@ -9,18 +9,18 @@ Config.Jobs = {
 Config.JobsRanks = {
     ['policia'] = { --Name of the clock
         {
-            name = 'police', --Name of the job that can get the time of the users
+            name = 'polices', --Name of the job that can get the time of the users
             ranks = {
-                'novice' --Ranks of the job that can get the time of the users
+                'novices' --Ranks of the job that can get the time of the users
             }
         }
     }
 }
 
 Config.Commands = {
-    on_duty = 'entrar', --Name of the command to go on duty. Usage : /entrar name_of_clock
-    off_duty = 'salir',--Name of the command to go off duty. Usage : /salir
-    hours = 'horas' --Get the hours of a clock. /horas name_of_the_clock or for other people  /horas name_of_the_clock user_target or /horas name_of_the_clock identifier
+    on_duty = 'entrars', --Name of the command to go on duty. Usage : /entrar name_of_clock
+    off_duty = 'salirs',--Name of the command to go off duty. Usage : /salir
+    hours = 'horass' --Get the hours of a clock. /horas name_of_the_clock or for other people  /horas name_of_the_clock user_target or /horas name_of_the_clock identifier
 }
 
 --Translations, sorry for the Spanish
